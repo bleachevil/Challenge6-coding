@@ -18,4 +18,9 @@ https://bleachevil.github.io/Challenge6-coding/
 #### moderate
 ![](3)
 
+#### severe
+![](4)
+
+#### *Note: when you swift between the city, the color will change accordingly.*
+
 ### 4. presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
