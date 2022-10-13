@@ -1,3 +1,69 @@
- header{
-    background: linear-gradient(blue, pink);
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    --white: #ffffff;
+    --blue: #2a607c;
+    --darkblue: blue;
+    --lightblue: rgb(234, 234, 248);
+    --black:  black;
+    --purple: purple;
+    --gray: rgb(197, 197, 197); 
+    --font: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+header {
+    background: linear-gradient(to left, var(--darkblue), var(--lightblue));
+    color: var(--white);
+    font-size: 40px;
+    margin: 20px;
+    padding: 20px;
+  }
+
+  .input-group {
+      width:26.5%;
+      margin-left: 1%;
+  }
+
+  h1 {
+      font-size: 25px;
+      padding-bottom: 1%;
+      font-weight: bold;
+      margin-left: 1%;
+  }
+
+  #clear_button {
+    margin-left: 1.8%;
+  }
+
+  #future-weather {
+      margin-top: 2%;
+    margin-left: 4%;
+  }
+
+  ul {
+    margin-top: 2%;
+    margin-left: 2%;
+  }
+
+  li {
+    margin-top: 2%;
+    margin-left: 2%;
+    padding-top: 2%;
+  }
+
+
+  #current-weather {
+    margin-left: 1%;
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  p {
+      margin: 10px;
   }
