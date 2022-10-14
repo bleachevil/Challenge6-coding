@@ -57,6 +57,10 @@ header {
     padding-top: 2%;
   }
 
+  .list-group-item.active:hover {
+    background-color: red;
+  }
+
 
   #current-weather {
     margin-left: 1%;
