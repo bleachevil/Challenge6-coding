@@ -14,28 +14,28 @@ https://bleachevil.github.io/Challenge6-coding/
 
 ## Acceptance Criteria
 ### 1. Presented with current and future conditions for that city and that city is added to the search history
-![](1)
+![](https://github.com/bleachevil/Challenge6-coding/blob/main/Assets/pics/1.png?raw=true)
 
 ### 2. Presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index
-![](2)
+![](https://github.com/bleachevil/Challenge6-coding/blob/main/Assets/pics/2.png?raw=true)
 
 ### 3. Presented with a color that indicates whether the conditions are favorable, moderate, or severe
 #### Favorable
-![](2)
+![](https://github.com/bleachevil/Challenge6-coding/blob/main/Assets/pics/2.png?raw=true)
 
 #### Moderate
-![](3)
+![](https://github.com/bleachevil/Challenge6-coding/blob/main/Assets/pics/3.png?raw=true)
 
 #### Severe
-![](4)
+![](https://github.com/bleachevil/Challenge6-coding/blob/main/Assets/pics/4.png?raw=true)
 
 #### *Note: when you swift between the city, the color will change accordingly.*
 
 ### 4. Presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
-![](5)
+![](https://github.com/bleachevil/Challenge6-coding/blob/main/Assets/pics/5.png?raw=true)
 
 ### 5. Click on a city in the search history and presented with current and future conditions for that city
-![](6)
+![](https://github.com/bleachevil/Challenge6-coding/blob/main/Assets/pics/6.png?raw=true)
 
 ## Credits
 ### Author
