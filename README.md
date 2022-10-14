@@ -37,6 +37,8 @@ https://bleachevil.github.io/Challenge6-coding/
 ### 5. Click on a city in the search history and presented with current and future conditions for that city
 ![](https://github.com/bleachevil/Challenge6-coding/blob/main/Assets/pics/6.png?raw=true)
 
+#### *Note: red background (hover on the '<'li>') was not visable by using google Chrome, please use Microsoft Edge or Firefox..*
+
 ## Credits
 ### Author
 
