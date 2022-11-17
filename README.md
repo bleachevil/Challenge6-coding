@@ -13,31 +13,17 @@ below is the final output
 https://bleachevil.github.io/Challenge6-coding/
 
 ## Acceptance Criteria
-### 1. Presented with current and future conditions for that city and that city is added to the search history
-![](https://github.com/bleachevil/Challenge6-coding/blob/main/Assets/pics/1.png?raw=true)
+### 1. open the note and write the note 
+![1](https://user-images.githubusercontent.com/16517540/202325887-84d79d81-39d6-434b-9651-941768175407.png)
 
-### 2. Presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index
-![](https://github.com/bleachevil/Challenge6-coding/blob/main/Assets/pics/2.png?raw=true)
 
-### 3. Presented with a color that indicates whether the conditions are favorable, moderate, or severe
-#### Favorable
-![](https://github.com/bleachevil/Challenge6-coding/blob/main/Assets/pics/2.png?raw=true)
+### 2. saved the note on the left
+![2](https://user-images.githubusercontent.com/16517540/202325916-7bf62fae-4dfd-4824-b961-2692799d4885.png)
 
-#### Moderate
-![](https://github.com/bleachevil/Challenge6-coding/blob/main/Assets/pics/3.png?raw=true)
 
-#### Severe
-![](https://github.com/bleachevil/Challenge6-coding/blob/main/Assets/pics/4.png?raw=true)
+### 3. delete the note
 
-#### *Note: when you swift between the city, the color will change accordingly.*
-
-### 4. Presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
-![](https://github.com/bleachevil/Challenge6-coding/blob/main/Assets/pics/5.png?raw=true)
-
-### 5. Click on a city in the search history and presented with current and future conditions for that city
-![](https://github.com/bleachevil/Challenge6-coding/blob/main/Assets/pics/6.png?raw=true)
-
-#### *Note: red background (hover on the '<'li>') was not visable by using google Chrome, please use Microsoft Edge or Firefox..*
+![3](https://user-images.githubusercontent.com/16517540/202325954-1cfdec7a-cee9-470c-9908-792f0f749004.png)
 
 ## Credits
 ### Author
